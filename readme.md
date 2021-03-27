@@ -1,5 +1,7 @@
 # AZ-304
 
+[TOC]
+
 ## compute
 
 * Virtual Machine: Windows oor Linux (lift and shift) also called as inrastructure as a service
